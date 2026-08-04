@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
