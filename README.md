@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/jaya-lgtm/leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 ## Math
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/jaya-lgtm/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
