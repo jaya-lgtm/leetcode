@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0415-add-strings) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jaya-lgtm/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/jaya-lgtm/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
