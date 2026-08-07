@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jaya-lgtm/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0415-add-strings) |
