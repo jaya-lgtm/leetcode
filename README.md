@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/jaya-lgtm/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/jaya-lgtm/leetcode/tree/master/0509-fibonacci-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaya-lgtm/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaya-lgtm/leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/jaya-lgtm/leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-lgtm/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -117,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaya-lgtm/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaya-lgtm/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
