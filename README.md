@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/jaya-lgtm/leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
+| [0403-frog-jump](https://github.com/jaya-lgtm/leetcode/tree/master/0403-frog-jump) |
 | [1140-stone-game-ii](https://github.com/jaya-lgtm/leetcode/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jaya-lgtm/leetcode/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/jaya-lgtm/leetcode/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/jaya-lgtm/leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/jaya-lgtm/leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-lgtm/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
