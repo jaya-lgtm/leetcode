@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaya-lgtm/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/jaya-lgtm/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaya-lgtm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/jaya-lgtm/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/jaya-lgtm/leetcode/tree/master/0162-find-peak-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jaya-lgtm/leetcode/tree/master/0075-sort-colors) |
 | [2785-sort-vowels-in-a-string](https://github.com/jaya-lgtm/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Depth-First Search
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jaya-lgtm/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/jaya-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaya-lgtm/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/jaya-lgtm/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jaya-lgtm/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaya-lgtm/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaya-lgtm/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
