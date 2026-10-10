@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/jaya-lgtm/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/jaya-lgtm/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
+| [0260-single-number-iii](https://github.com/jaya-lgtm/leetcode/tree/master/0260-single-number-iii) |
 | [0403-frog-jump](https://github.com/jaya-lgtm/leetcode/tree/master/0403-frog-jump) |
 | [1140-stone-game-ii](https://github.com/jaya-lgtm/leetcode/tree/master/1140-stone-game-ii) |
 ## Math
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/jaya-lgtm/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/jaya-lgtm/leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/jaya-lgtm/leetcode/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
