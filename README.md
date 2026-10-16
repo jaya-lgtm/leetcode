@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/jaya-lgtm/leetcode/tree/master/0260-single-number-iii) |
 | [0403-frog-jump](https://github.com/jaya-lgtm/leetcode/tree/master/0403-frog-jump) |
+| [0485-max-consecutive-ones](https://github.com/jaya-lgtm/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/jaya-lgtm/leetcode/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
