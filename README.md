@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaya-lgtm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/jaya-lgtm/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/jaya-lgtm/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/jaya-lgtm/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jaya-lgtm/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/jaya-lgtm/leetcode/tree/master/0260-single-number-iii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jaya-lgtm/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/jaya-lgtm/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/jaya-lgtm/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/jaya-lgtm/leetcode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/jaya-lgtm/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/jaya-lgtm/leetcode/tree/master/0415-add-strings) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaya-lgtm/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/jaya-lgtm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaya-lgtm/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/jaya-lgtm/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/jaya-lgtm/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaya-lgtm/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaya-lgtm/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
